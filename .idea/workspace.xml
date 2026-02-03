@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82ce92d6-ccb8-4ffa-a57f-0c07b39a32d3" name="Changes" comment="Github Upload" />
+    <list default="true" id="82ce92d6-ccb8-4ffa-a57f-0c07b39a32d3" name="Changes" comment="Github Upload">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.sad.executor": "Run",
     "Python.schrink.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -92,7 +95,7 @@
       <updated>1770123846791</updated>
       <workItem from="1770123847822" duration="4682000" />
       <workItem from="1770136777332" duration="1101000" />
-      <workItem from="1770137899892" duration="132000" />
+      <workItem from="1770137899892" duration="477000" />
     </task>
     <task id="LOCAL-00001" summary="Github Upload">
       <option name="closed" value="true" />
@@ -118,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770137556985</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Github Upload">
+      <option name="closed" value="true" />
+      <created>1770138224263</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770138224263</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

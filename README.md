@@ -24,7 +24,7 @@ The sample data used in this project is provided by **[Databento](https://databe
 
 ## How it Works
 
-1. **File Upload:** Ingests CSV files containing tick data (e.g., `NQ_2020_03.csv`).
+1. **File Upload:** Ingests CSV files containing tick data (e.g., `NQ_2025_01.csv`).
 2. **Preprocessing:** Normalizes timestamps to UTC and scales prices.
 3. **Resampling:** Aggregates ticks into Open, High, Low, and Close (OHLC) values for timeframes ranging from 1 minute to 1 day.
 4. **Visualization:** Dynamic timeframe selection with interactive candlestick rendering.
@@ -46,6 +46,6 @@ The sample data used in this project is provided by **[Databento](https://databe
     ```bash
    pip install -r requirements.txt
 
-3**Run the app**
+3. **Run the app**
     ```bash
    streamlit run main.py
