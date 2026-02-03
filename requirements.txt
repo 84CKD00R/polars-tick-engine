@@ -1,0 +1,8 @@
+# Visual
+plotly~=6.5.2
+# Data
+polars~=1.37.1
+# App
+streamlit~=1.53.1
+# App Better Performance
+watchdog~=6.0.0
